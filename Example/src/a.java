@@ -8,6 +8,7 @@ public void  a1(){
 
 public void a2(){
 	System.out.println("a2");
+	System.out.println("test Commit");
 	
 }
 }
